@@ -1,0 +1,9 @@
+{
+	"name": "bostonserivcepdlk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b159be21-4933-4c52-b1ea-6b7b7da64dfe",
+		"tenantId": "72e21b8a-a58b-4e2a-a272-0e3e1cc6b87d"
+	}
+}
